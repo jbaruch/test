@@ -8,3 +8,5 @@ and welcome
 hi (there)
 now go away
 test1
+
+[ ![Image](https://api.bintray.com/packages/wbillingsley/maven/eventroom/images/download.png) ](https://bintray.com/wbillingsley/maven/eventroom/_latestVersion)
