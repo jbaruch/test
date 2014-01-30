@@ -9,4 +9,4 @@ hi (there)
 now go away
 test1
 
-[ ![Image](http://api.bintray.com/packages/wbillingsley/maven/eventroom/images/download.png) ](https://bintray.com/wbillingsley/maven/eventroom/_latestVersion)
+[ ![Image](https://api.bintray.com/packages/jfrog/jfrog-jars/gradle-bintray-plugin/images/download.png) ](https://bintray.com/jfrog/jfrog-jars/gradle-bintray-plugin/_latestVersion)
